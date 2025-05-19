@@ -8,10 +8,11 @@ if (!isset($_SESSION['email']) || $_SESSION['role'] !== 'admin') {
     exit();
 }
 
-// Benutzerdaten abrufen
+// Benutzerdaten abrufen TEST
 $query = "SELECT id, name, email, role FROM users";
 $result = mysqli_query($conn, $query);
 ?>
+
 
 <!DOCTYPE html>
 <html lang="de">
