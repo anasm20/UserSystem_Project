@@ -72,10 +72,10 @@ After logging in, you'll see a dashboard based on your role:
 ---
 
 ## 🛠️ Technologies Used
--PHP
--MySQL
--HTML/CSS
--JavaScript
+- PHP
+- MySQL
+- HTML/CSS
+- JavaScript
 - XAMPP (local development server)
 
 ---
