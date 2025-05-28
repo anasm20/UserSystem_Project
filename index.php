@@ -127,6 +127,7 @@ function isActiveForm($formName, $activeForm) {
 
     <header>
         <h1>Welcome to the UserSystem</h1>
+        <p>This project is a simple user system for registration, login, and user management, developed using HTML, CSS, JavaScript, and PHP.</p>
     </header>
 
     <main>
@@ -162,7 +163,7 @@ function isActiveForm($formName, $activeForm) {
     </main>
 
     <footer>
-        <p>&copy; <?= date('Y'); ?> UserSystem. All rights reserved.</p>
+        <p> 2025 - UserSystem. All rights reserved.</p>
     </footer>
 
     <script>
